@@ -1,5 +1,5 @@
 {
-  "exam_name": "General Pharmacology 2 - Nursing Program",
+  "exam_name": "Health Assessment — الامتحان الشامل",
   "exam_password": "2005",
   "video_filename": "lecture.mp4",
   "created_by": "Mohamed Salah",
@@ -7,192 +7,192 @@
   "questions": [
     {
       "id": 1,
-      "question_id": "PHARM001",
+      "question_id": "HA0001",
       "sequential_number": 1,
       "question_type": "mcq",
-      "question_text": "Which of the following best describes 'Pharmacodynamics'?",
-      "highlight_terms": ["Pharmacodynamics", "describes"],
+      "question_text": "What is the primary purpose of performing a health assessment?",
+      "highlight_terms": ["health assessment", "purpose"],
       "options": {
-        "A": "What the body does to the drug",
-        "B": "What the drug does to the body",
-        "C": "The absorption and distribution of the drug",
-        "D": "The excretion of the drug from the body"
+        "A": "To diagnose diseases only",
+        "B": "To identify actual and potential health problems and establish baseline data",
+        "C": "To prescribe medications",
+        "D": "To perform surgical procedures"
       },
       "correct_answer": "B",
-      "explanation_egyptian": "الفارماكوديناميك (Pharmacodynamics) ببساطة هي 'الدوا بيعمل إيه في الجسم'، يعني التأثير العلاجي (Therapeutic effects) والأعراض الجانبية (Adverse effects). أما الخيار الأول فهو تعريف الـ Pharmacokinetics.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "3",
+      "explanation_egyptian": "الـ health assessment هو عملية شاملة بتتم عشان نجمع معلومات عن الحالة الصحية للمريض. الهدف الأساسي هو تحديد المشاكل الصحية الحالية والمحتملة وتأسيس بيانات أساسية لمتابعة المريض. الإجابة الصحيحة هي B لأنها بتغطي الاتنين: تحديد المشاكل وتأسيس البيانات الأساسية.",
+      "lecture_name": "Introduction on health assessment 1",
+      "page_number": "8",
       "difficulty": "easy"
     },
     {
       "id": 2,
-      "question_id": "PHARM002",
+      "question_id": "HA0002",
       "sequential_number": 2,
       "question_type": "mcq",
-      "question_text": "Which of the following represents the fastest type of receptors?",
-      "highlight_terms": ["fastest type", "receptors"],
+      "question_text": "Which of the following is an example of subjective data?",
+      "highlight_terms": ["subjective data"],
       "options": {
-        "A": "G protein-Coupled Receptors",
-        "B": "Receptors linked to Tyrosine Kinase",
-        "C": "Intracellular Receptors",
-        "D": "Ion Channels"
+        "A": "Blood pressure reading of 120/80 mmHg",
+        "B": "Temperature of 37°C",
+        "C": "Patient reports feeling severe pain in the abdomen",
+        "D": "Heart rate of 72 beats per minute"
       },
-      "correct_answer": "D",
-      "explanation_egyptian": "الـ Ion Channels دي أسرع نوع من المستقبلات لأن بمجرد ما الدوا يمسك فيها، القناة بتفتح وتدخل الأيونات في أجزاء من الثانية (زي الـ Nicotinic Ach receptors). باقي الأنواع بتاخد وقت أطول من ثواني لساعات أو حتى أيام.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "5",
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ subjective data (البيانات الذاتية) هي المعلومات اللي المريض بيبلغنا بيها عن حالته. الألم مش بنقيسه بأجهزة، ده إحساس المريض نفسه. باقي الاختيارات (الضغط، الحرارة، معدل ضربات القلب) كلها objective data لأنها بيانات قابلة للقياس بمعدات طبية.",
+      "lecture_name": "Introduction on health assessment 1",
+      "page_number": "12",
       "difficulty": "easy"
     },
     {
       "id": 3,
-      "question_id": "PHARM003",
+      "question_id": "HA0003",
       "sequential_number": 3,
       "question_type": "mcq",
-      "question_text": "Aspirin produces its anti-inflammatory effect by acting on enzymes. This is an example of:",
-      "highlight_terms": ["Aspirin", "acting on enzymes", "example of"],
+      "question_text": "A focused assessment is best described as:",
+      "highlight_terms": ["focused assessment"],
       "options": {
-        "A": "Receptor-mediated mechanisms",
-        "B": "Non receptor-mediated mechanisms",
-        "C": "Physical antagonism",
-        "D": "Pharmacokinetic tolerance"
+        "A": "A complete evaluation of all body systems",
+        "B": "An assessment that focuses on a specific problem or body system",
+        "C": "An emergency assessment for trauma patients",
+        "D": "A follow-up assessment after treatment"
       },
       "correct_answer": "B",
-      "explanation_egyptian": "الأسبرين بيشتغل بطريقة Non Receptor-Mediated، وتحديداً عن طريق إنه بيوقف شغل إنزيم اسمه cyclooxygenase (COX)، فبالتالي بيمنع تكوين الـ prostaglandins. يعني هو مش بيمسك في Receptor خالص.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "10",
-      "difficulty": "medium"
-    },
-    {
-      "id": 4,
-      "question_id": "PHARM004",
-      "sequential_number": 4,
-      "question_type": "mcq",
-      "question_text": "How is the Therapeutic Index (TI) calculated?",
-      "highlight_terms": ["Therapeutic Index", "calculated"],
-      "options": {
-        "A": "ED50 / LD50",
-        "B": "LD50 / ED50",
-        "C": "Emax / ED50",
-        "D": "LD50 - ED50"
-      },
-      "correct_answer": "B",
-      "explanation_egyptian": "مؤشر الأمان أو الـ Therapeutic Index بنحسبه بقسمة الجرعة المميتة لـ 50% من الحيوانات (LD50) على الجرعة الفعالة لـ 50% منهم (ED50). وكل ما الرقم ده كبر، كل ما الدوا كان أكثر أماناً (safer).",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "14",
-      "difficulty": "medium"
-    },
-    {
-      "id": 5,
-      "question_id": "PHARM005",
-      "sequential_number": 5,
-      "question_type": "mcq",
-      "question_text": "Insulin binds to which of the following types of receptors?",
-      "highlight_terms": ["Insulin", "types of receptors"],
-      "options": {
-        "A": "Intracellular Receptors",
-        "B": "Receptors linked to Tyrosine Kinase",
-        "C": "G protein-Coupled Receptors",
-        "D": "Ligand-gated ion channels"
-      },
-      "correct_answer": "B",
-      "explanation_egyptian": "الإنسولين بيشتغل عن طريق الـ Tyrosine Kinase receptors، ولما بيمسك فيها بيعمل تنشيط للإنزيم ده وبيطلع الـ cellular response، والاستجابة دي بتاخد من دقايق لساعات.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "7",
+      "explanation_egyptian": "الـ focused assessment (التقييم المركز) هو تقييم بيركز على مشكلة صحية معينة أو نظام عضوي محدد. مش شامل زي الـ comprehensive assessment، ولا طارئ زي الـ emergency assessment، ولا متابعة زي الـ follow-up assessment.",
+      "lecture_name": "Introduction on health assessment 1",
+      "page_number": "9",
       "difficulty": "easy"
     },
     {
+      "id": 4,
+      "question_id": "HA0004",
+      "sequential_number": 4,
+      "question_type": "mcq",
+      "question_text": "What is the correct order of physical examination techniques?",
+      "highlight_terms": ["physical examination", "techniques", "order"],
+      "options": {
+        "A": "Palpation, Inspection, Percussion, Auscultation",
+        "B": "Inspection, Palpation, Percussion, Auscultation",
+        "C": "Auscultation, Percussion, Palpation, Inspection",
+        "D": "Inspection, Auscultation, Percussion, Palpation"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الترتيب الصحيح لتقنيات الفحص الطبي هو: Inspection (المعاينة) أولاً بنبص على المريض، بعدين Palpation (الجس) بنحس بأيدينا، بعدين Percussion (القرع) بنطرق، وأخيراً Auscultation (السماع) بالسماعة الطبية.",
+      "lecture_name": "physical examination",
+      "page_number": "2",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question_id": "HA0005",
+      "sequential_number": 5,
+      "question_type": "mcq",
+      "question_text": "Which percussion note would you expect to hear over the liver?",
+      "highlight_terms": ["percussion", "liver"],
+      "options": {
+        "A": "Resonance",
+        "B": "Tympany",
+        "C": "Dullness",
+        "D": "Hyperresonance"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ Dullness (النغمة المكتومة) بتطلع لما القرع بيكون على منطقة فيها أنسجة صلبة أو سائلة زي الكبد (liver). الـ Resonance للرئة الطبيعية، Tympany للمعدة المليانة هواء، و Hyperresonance لحالات زي الانتفاخ الرئوي.",
+      "lecture_name": "physical examination",
+      "page_number": "20",
+      "difficulty": "medium"
+    },
+    {
       "id": 6,
-      "question_id": "PHARM006",
+      "question_id": "HA0006",
       "sequential_number": 6,
       "question_type": "mcq",
-      "question_text": "Protamine and heparin are considered an example of:",
-      "highlight_terms": ["Protamine", "heparin", "example of"],
+      "question_text": "Which of the following is NOT a function of the skin?",
+      "highlight_terms": ["skin", "functions"],
       "options": {
-        "A": "Competitive antagonists",
-        "B": "Noncompetitive antagonists",
-        "C": "Physiological antagonists",
-        "D": "Physical antagonists"
+        "A": "Protection",
+        "B": "Temperature regulation",
+        "C": "Vitamin C synthesis",
+        "D": "Sensation"
       },
-      "correct_answer": "D",
-      "explanation_egyptian": "البروتامين والهيبارين بيعتبروا Physical antagonists لأنهم بيعادلوا بعض أو بيلغوا تأثير بعض فيزيائياً. أما الأدرينالين والهيستامين فدول بيعتبروا Physiological antagonists.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "12",
-      "difficulty": "medium"
+      "correct_answer": "C",
+      "explanation_egyptian": "الجلد بيعمل Vitamin D synthesis مش Vitamin C. الوظائف الصحية للجلد بتشمل: Protection (الحماية)، Temperature regulation (تنظيم الحرارة)، Sensation (الإحساس)، و Vitamin D synthesis (تكوين فيتامين د) لما الجلد يتعرض للشمس.",
+      "lecture_name": "3 assessment of skin,hair,nail",
+      "page_number": "6",
+      "difficulty": "easy"
     },
     {
       "id": 7,
-      "question_id": "PHARM007",
+      "question_id": "HA0007",
       "sequential_number": 7,
       "question_type": "mcq",
-      "question_text": "A patient taking opiates needs higher doses over time to achieve the same pain relief due to decreased receptor sensitivity. This is known as:",
-      "highlight_terms": ["decreased receptor sensitivity", "higher doses", "known as"],
+      "question_text": "In the Weber test, if the sound lateralizes to the left ear, this suggests:",
+      "highlight_terms": ["Weber test", "lateralization"],
       "options": {
-        "A": "Pharmacokinetic tolerance",
-        "B": "Pharmacodynamic tolerance",
-        "C": "Enzyme induction",
-        "D": "Receptor up-regulation"
-      },
-      "correct_answer": "B",
-      "explanation_egyptian": "لما حساسية المستقبلات (receptors) تقل أو عددها يقل، ده بنسميه Pharmacodynamic tolerance. أما لو المشكلة إن الدوا بيتكسر أسرع في الكبد (زي ما بيحصل مع الـ phenobarbitone) فده بيبقى Pharmacokinetic tolerance.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "16",
-      "difficulty": "hard"
-    },
-    {
-      "id": 8,
-      "question_id": "PHARM008",
-      "sequential_number": 8,
-      "question_type": "mcq",
-      "question_text": "What happens when an agonist binds to a G protein-coupled receptor?",
-      "highlight_terms": ["agonist binds", "G protein-coupled receptor", "happens"],
-      "options": {
-        "A": "Direct opening of an ion channel",
-        "B": "Immediate transcription of DNA into RNA",
-        "C": "Dissociation of a subunit which regulates effectors",
-        "D": "Neutralization of HCL"
-      },
-      "correct_answer": "C",
-      "explanation_egyptian": "في حالة الـ G protein-Coupled Receptors، لما الدوا (Agonist) بيمسك في الـ receptor بيحصل انفصال (dissociation) لوحدة الـ alpha subunit، وهي اللي بتروح تنشط الـ effectors في الخلية. العملية دي بتاخد من ثواني لدقايق.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "6",
-      "difficulty": "hard"
-    },
-    {
-      "id": 9,
-      "question_id": "PHARM009",
-      "sequential_number": 9,
-      "question_type": "image_mcq",
-      "question_text": "Based on the receptor mechanisms diagram provided in the lecture, which receptor type requires the ligand to diffuse into the cell to alter gene expression?",
-      "highlight_terms": ["receptor mechanisms diagram", "diffuse into the cell", "alter gene expression"],
-      "options": {
-        "A": "Ligand-gated ion channels",
-        "B": "G protein-coupled receptors",
-        "C": "Enzyme-linked receptors",
-        "D": "Intracellular receptors"
+        "A": "Sensorineural hearing loss in the right ear",
+        "B": "Conductive hearing loss in the left ear",
+        "C": "Normal hearing in both ears",
+        "D": "Both A and B are possible"
       },
       "correct_answer": "D",
-      "explanation_egyptian": "في الصورة المجمعة للمستقبلات، بنشوف إن الـ Intracellular receptors (زي مستقبلات الستيرويد) موجودة جوه الخلية، فالدوا لازم يخترق الجدار بتاع الخلية ويدخل جوا عشان يغير في الـ gene expression، وده أبطأ نوع فيهم.",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "9",
+      "explanation_egyptian": "في الـ Weber test، لو الصوت راح للشمال، ممكن يكون في conductive hearing loss في الأذن اليسرى (الصوت بيسمع أوضح في الأذن المصابة) أو sensorineural hearing loss في الأذن اليمنى (الأذن السليمة بتسمع أكتر). الإجابتين ممكنة.",
+      "lecture_name": "Introduction on health assessment 1",
+      "page_number": "29",
       "difficulty": "medium"
     },
     {
-      "id": 10,
-      "question_id": "PHARM010",
-      "sequential_number": 10,
-      "question_type": "image_mcq",
-      "question_text": "Looking at the Dose-Response curve comparing Drug A and Drug B, if Drug A reaches a maximum response of 60% and Drug B reaches 100%, which conclusion is correct?",
-      "highlight_terms": ["Dose-Response curve", "maximum response of 60%", "reaches 100%"],
+      "id": 8,
+      "question_id": "HA0008",
+      "sequential_number": 8,
+      "question_type": "mcq",
+      "question_text": "What is the normal capillary refill time?",
+      "highlight_terms": ["capillary refill", "normal"],
       "options": {
-        "A": "Drug A is more effective than Drug B",
-        "B": "Drug B is more effective than Drug A",
-        "C": "Drug A has a higher ED50 than Drug B",
-        "D": "Both drugs have the same efficacy but different potencies"
+        "A": "Less than 2 seconds",
+        "B": "3-5 seconds",
+        "C": "5-7 seconds",
+        "D": "More than 10 seconds"
       },
-      "correct_answer": "B",
-      "explanation_egyptian": "من الرسم البياني للـ Dose-Response curve، بنعرف الفعالية (Efficacy) من أقصى ارتفاع للمنحنى (Emax). الدوا B وصل لـ 100% لكن الدوا A وصل لـ 60% بس، فده معناه إن الدوا B فعاليته أعلى (more effective). أما القوة (Potency) فبنعرفها من محور الجرعات (ED50).",
-      "lecture_name": "General Pharmacology-2",
-      "page_number": "13",
+      "correct_answer": "A",
+      "explanation_egyptian": "زمن امتلاء الشعيرات الطبيعي (normal capillary refill time) هو أقل من ثانيتين. بنضغط على سرير الظفر وبنشوف اللون بيرجع في وقت أد. لو اتأخر، ده ممكن يدل على مشاكل في الدورة الدموية.",
+      "lecture_name": "Introduction on health assessment 1",
+      "page_number": "9",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question_id": "HA0009",
+      "sequential_number": 9,
+      "question_type": "mcq",
+      "question_text": "PERRLA is used to assess:",
+      "highlight_terms": ["PERRLA"],
+      "options": {
+        "A": "Heart sounds",
+        "B": "Lung sounds",
+        "C": "Pupil reactions",
+        "D": "Skin turgor"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ PERRLA اختصار لتقييم البؤبؤ: Pupils Equal (متساويين)، Round (مستديرين)، Reactive to Light (بيردوا على الضوء)، Accommodation (التكيف). بنستخدمه لتقييم ردود فعل البؤبؤين.",
+      "lecture_name": "Introduction on health assessment 1",
+      "page_number": "9",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question_id": "HA0010",
+      "sequential_number": 10,
+      "question_type": "mcq",
+      "question_text": "When performing abdominal assessment, the correct order is:",
+      "highlight_terms": ["abdominal assessment", "order"],
+      "options": {
+        "A": "Inspection, Auscultation, Percussion, Palpation",
+        "B": "Inspection, Palpation, Percussion, Auscultation",
+        "C": "Auscultation, Inspection, Palpation, Percussion",
+        "D": "Palpation, Percussion, Auscultation, Inspection"
+      },
+      "correct_answer": "A",
+      "explanation_egyptian": "في تقييم البطن، الترتيب مختلف! بنبدأ بـ Inspection (المعاينة)، بعدين Auscultation (السماع) قبل ما نلمس البطن، لأن اللمس ممكن يغير أصوات الأمعاء. بعدين Percussion (القرع)، وأخيراً Palpation (الجس).",
+      "lecture_name": "Abdominal assessment",
+      "page_number": "5",
       "difficulty": "medium"
     }
   ]
