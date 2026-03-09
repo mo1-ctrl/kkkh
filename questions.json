@@ -1,0 +1,199 @@
+{
+  "exam_name": "General Pharmacology 2 - Nursing Program",
+  "exam_password": "2005",
+  "video_filename": "lecture.mp4",
+  "created_by": "Mohamed Salah",
+  "time_per_question": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question_id": "PHARM001",
+      "sequential_number": 1,
+      "question_type": "mcq",
+      "question_text": "Which of the following best describes 'Pharmacodynamics'?",
+      "highlight_terms": ["Pharmacodynamics", "describes"],
+      "options": {
+        "A": "What the body does to the drug",
+        "B": "What the drug does to the body",
+        "C": "The absorption and distribution of the drug",
+        "D": "The excretion of the drug from the body"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الفارماكوديناميك (Pharmacodynamics) ببساطة هي 'الدوا بيعمل إيه في الجسم'، يعني التأثير العلاجي (Therapeutic effects) والأعراض الجانبية (Adverse effects). أما الخيار الأول فهو تعريف الـ Pharmacokinetics.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "3",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question_id": "PHARM002",
+      "sequential_number": 2,
+      "question_type": "mcq",
+      "question_text": "Which of the following represents the fastest type of receptors?",
+      "highlight_terms": ["fastest type", "receptors"],
+      "options": {
+        "A": "G protein-Coupled Receptors",
+        "B": "Receptors linked to Tyrosine Kinase",
+        "C": "Intracellular Receptors",
+        "D": "Ion Channels"
+      },
+      "correct_answer": "D",
+      "explanation_egyptian": "الـ Ion Channels دي أسرع نوع من المستقبلات لأن بمجرد ما الدوا يمسك فيها، القناة بتفتح وتدخل الأيونات في أجزاء من الثانية (زي الـ Nicotinic Ach receptors). باقي الأنواع بتاخد وقت أطول من ثواني لساعات أو حتى أيام.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "5",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question_id": "PHARM003",
+      "sequential_number": 3,
+      "question_type": "mcq",
+      "question_text": "Aspirin produces its anti-inflammatory effect by acting on enzymes. This is an example of:",
+      "highlight_terms": ["Aspirin", "acting on enzymes", "example of"],
+      "options": {
+        "A": "Receptor-mediated mechanisms",
+        "B": "Non receptor-mediated mechanisms",
+        "C": "Physical antagonism",
+        "D": "Pharmacokinetic tolerance"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الأسبرين بيشتغل بطريقة Non Receptor-Mediated، وتحديداً عن طريق إنه بيوقف شغل إنزيم اسمه cyclooxygenase (COX)، فبالتالي بيمنع تكوين الـ prostaglandins. يعني هو مش بيمسك في Receptor خالص.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "10",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question_id": "PHARM004",
+      "sequential_number": 4,
+      "question_type": "mcq",
+      "question_text": "How is the Therapeutic Index (TI) calculated?",
+      "highlight_terms": ["Therapeutic Index", "calculated"],
+      "options": {
+        "A": "ED50 / LD50",
+        "B": "LD50 / ED50",
+        "C": "Emax / ED50",
+        "D": "LD50 - ED50"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "مؤشر الأمان أو الـ Therapeutic Index بنحسبه بقسمة الجرعة المميتة لـ 50% من الحيوانات (LD50) على الجرعة الفعالة لـ 50% منهم (ED50). وكل ما الرقم ده كبر، كل ما الدوا كان أكثر أماناً (safer).",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "14",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question_id": "PHARM005",
+      "sequential_number": 5,
+      "question_type": "mcq",
+      "question_text": "Insulin binds to which of the following types of receptors?",
+      "highlight_terms": ["Insulin", "types of receptors"],
+      "options": {
+        "A": "Intracellular Receptors",
+        "B": "Receptors linked to Tyrosine Kinase",
+        "C": "G protein-Coupled Receptors",
+        "D": "Ligand-gated ion channels"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الإنسولين بيشتغل عن طريق الـ Tyrosine Kinase receptors، ولما بيمسك فيها بيعمل تنشيط للإنزيم ده وبيطلع الـ cellular response، والاستجابة دي بتاخد من دقايق لساعات.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "7",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question_id": "PHARM006",
+      "sequential_number": 6,
+      "question_type": "mcq",
+      "question_text": "Protamine and heparin are considered an example of:",
+      "highlight_terms": ["Protamine", "heparin", "example of"],
+      "options": {
+        "A": "Competitive antagonists",
+        "B": "Noncompetitive antagonists",
+        "C": "Physiological antagonists",
+        "D": "Physical antagonists"
+      },
+      "correct_answer": "D",
+      "explanation_egyptian": "البروتامين والهيبارين بيعتبروا Physical antagonists لأنهم بيعادلوا بعض أو بيلغوا تأثير بعض فيزيائياً. أما الأدرينالين والهيستامين فدول بيعتبروا Physiological antagonists.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "12",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question_id": "PHARM007",
+      "sequential_number": 7,
+      "question_type": "mcq",
+      "question_text": "A patient taking opiates needs higher doses over time to achieve the same pain relief due to decreased receptor sensitivity. This is known as:",
+      "highlight_terms": ["decreased receptor sensitivity", "higher doses", "known as"],
+      "options": {
+        "A": "Pharmacokinetic tolerance",
+        "B": "Pharmacodynamic tolerance",
+        "C": "Enzyme induction",
+        "D": "Receptor up-regulation"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "لما حساسية المستقبلات (receptors) تقل أو عددها يقل، ده بنسميه Pharmacodynamic tolerance. أما لو المشكلة إن الدوا بيتكسر أسرع في الكبد (زي ما بيحصل مع الـ phenobarbitone) فده بيبقى Pharmacokinetic tolerance.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "16",
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question_id": "PHARM008",
+      "sequential_number": 8,
+      "question_type": "mcq",
+      "question_text": "What happens when an agonist binds to a G protein-coupled receptor?",
+      "highlight_terms": ["agonist binds", "G protein-coupled receptor", "happens"],
+      "options": {
+        "A": "Direct opening of an ion channel",
+        "B": "Immediate transcription of DNA into RNA",
+        "C": "Dissociation of a subunit which regulates effectors",
+        "D": "Neutralization of HCL"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "في حالة الـ G protein-Coupled Receptors، لما الدوا (Agonist) بيمسك في الـ receptor بيحصل انفصال (dissociation) لوحدة الـ alpha subunit، وهي اللي بتروح تنشط الـ effectors في الخلية. العملية دي بتاخد من ثواني لدقايق.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "6",
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question_id": "PHARM009",
+      "sequential_number": 9,
+      "question_type": "image_mcq",
+      "question_text": "Based on the receptor mechanisms diagram provided in the lecture, which receptor type requires the ligand to diffuse into the cell to alter gene expression?",
+      "highlight_terms": ["receptor mechanisms diagram", "diffuse into the cell", "alter gene expression"],
+      "options": {
+        "A": "Ligand-gated ion channels",
+        "B": "G protein-coupled receptors",
+        "C": "Enzyme-linked receptors",
+        "D": "Intracellular receptors"
+      },
+      "correct_answer": "D",
+      "explanation_egyptian": "في الصورة المجمعة للمستقبلات، بنشوف إن الـ Intracellular receptors (زي مستقبلات الستيرويد) موجودة جوه الخلية، فالدوا لازم يخترق الجدار بتاع الخلية ويدخل جوا عشان يغير في الـ gene expression، وده أبطأ نوع فيهم.",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "9",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question_id": "PHARM010",
+      "sequential_number": 10,
+      "question_type": "image_mcq",
+      "question_text": "Looking at the Dose-Response curve comparing Drug A and Drug B, if Drug A reaches a maximum response of 60% and Drug B reaches 100%, which conclusion is correct?",
+      "highlight_terms": ["Dose-Response curve", "maximum response of 60%", "reaches 100%"],
+      "options": {
+        "A": "Drug A is more effective than Drug B",
+        "B": "Drug B is more effective than Drug A",
+        "C": "Drug A has a higher ED50 than Drug B",
+        "D": "Both drugs have the same efficacy but different potencies"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "من الرسم البياني للـ Dose-Response curve، بنعرف الفعالية (Efficacy) من أقصى ارتفاع للمنحنى (Emax). الدوا B وصل لـ 100% لكن الدوا A وصل لـ 60% بس، فده معناه إن الدوا B فعاليته أعلى (more effective). أما القوة (Potency) فبنعرفها من محور الجرعات (ED50).",
+      "lecture_name": "General Pharmacology-2",
+      "page_number": "13",
+      "difficulty": "medium"
+    }
+  ]
+}
